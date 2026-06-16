@@ -1,0 +1,184 @@
+[
+  {
+    "name": "PNG",
+    "extension": ".png",
+    "mime": "image/png",
+    "offset": 0,
+    "signature": "89504E470D0A1A0A"
+  },
+  {
+    "name": "JPEG",
+    "extension": ".jpg",
+    "mime": "image/jpeg",
+    "offset": 0,
+    "signature": "FFD8FF"
+  },
+  {
+    "name": "GIF",
+    "extension": ".gif",
+    "mime": "image/gif",
+    "offset": 0,
+    "signature": "47494638"
+  },
+  {
+    "name": "BMP",
+    "extension": ".bmp",
+    "mime": "image/bmp",
+    "offset": 0,
+    "signature": "424D"
+  },
+  {
+    "name": "WEBP",
+    "extension": ".webp",
+    "mime": "image/webp",
+    "offset": 8,
+    "signature": "57454250"
+  },
+  {
+    "name": "PDF",
+    "extension": ".pdf",
+    "mime": "application/pdf",
+    "offset": 0,
+    "signature": "25504446"
+  },
+  {
+    "name": "ZIP",
+    "extension": ".zip",
+    "mime": "application/zip",
+    "offset": 0,
+    "signature": "504B0304"
+  },
+  {
+    "name": "RAR",
+    "extension": ".rar",
+    "mime": "application/vnd.rar",
+    "offset": 0,
+    "signature": "526172211A07"
+  },
+  {
+    "name": "7ZIP",
+    "extension": ".7z",
+    "mime": "application/x-7z-compressed",
+    "offset": 0,
+    "signature": "377ABCAF271C"
+  },
+  {
+    "name": "GZIP",
+    "extension": ".gz",
+    "mime": "application/gzip",
+    "offset": 0,
+    "signature": "1F8B08"
+  },
+  {
+    "name": "EXE",
+    "extension": ".exe",
+    "mime": "application/vnd.microsoft.portable-executable",
+    "offset": 0,
+    "signature": "4D5A"
+  },
+  {
+    "name": "ELF",
+    "extension": "",
+    "mime": "application/x-elf",
+    "offset": 0,
+    "signature": "7F454C46"
+  },
+  {
+    "name": "JAVA_CLASS",
+    "extension": ".class",
+    "mime": "application/java-vm",
+    "offset": 0,
+    "signature": "CAFEBABE"
+  },
+  {
+    "name": "SQLITE",
+    "extension": ".sqlite",
+    "mime": "application/vnd.sqlite3",
+    "offset": 0,
+    "signature": "53514C69746520666F726D6174203300"
+  },
+  {
+    "name": "MP3",
+    "extension": ".mp3",
+    "mime": "audio/mpeg",
+    "offset": 0,
+    "signature": "494433"
+  },
+  {
+    "name": "FLAC",
+    "extension": ".flac",
+    "mime": "audio/flac",
+    "offset": 0,
+    "signature": "664C6143"
+  },
+  {
+    "name": "WAV",
+    "extension": ".wav",
+    "mime": "audio/wav",
+    "offset": 8,
+    "signature": "57415645"
+  },
+  {
+    "name": "OGG",
+    "extension": ".ogg",
+    "mime": "application/ogg",
+    "offset": 0,
+    "signature": "4F676753"
+  },
+  {
+    "name": "MP4",
+    "extension": ".mp4",
+    "mime": "video/mp4",
+    "offset": 4,
+    "signature": "66747970"
+  },
+  {
+    "name": "AVI",
+    "extension": ".avi",
+    "mime": "video/x-msvideo",
+    "offset": 8,
+    "signature": "41564920"
+  },
+  {
+    "name": "MKV",
+    "extension": ".mkv",
+    "mime": "video/x-matroska",
+    "offset": 0,
+    "signature": "1A45DFA3"
+  },
+  {
+    "name": "WEBM",
+    "extension": ".webm",
+    "mime": "video/webm",
+    "offset": 0,
+    "signature": "1A45DFA3"
+  },
+  {
+    "name": "FLV",
+    "extension": ".flv",
+    "mime": "video/x-flv",
+    "offset": 0,
+    "signature": "464C56"
+  },
+  {
+    "name": "RTF",
+    "extension": ".rtf",
+    "mime": "application/rtf",
+    "offset": 0,
+    "signature": "7B5C727466"
+  },
+  {
+    "name": "XML",
+    "extension": ".xml",
+    "mime": "application/xml",
+    "offset": 0,
+    "signature": "3C3F786D6C"
+  },
+  {
+    "name": "PSD",
+    "extension": ".psd",
+    "mime": "image/vnd.adobe.photoshop",
+    "offset": 0,
+    "signature": "38425053"
+  }
+]
