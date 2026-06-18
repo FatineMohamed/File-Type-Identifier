@@ -21,18 +21,9 @@ A Python-based file analysis utility that identifies a file's true type using ma
 
 ---
 
-## Screenshots
-
-### Extension Mismatch Detection
 
 <p align="center">
   <img src="images/extension.png" width="900">
-</p>
-
-### File Analysis Example
-
-<p align="center">
-  <img src="images/lock.jpeg" width="900">
 </p>
 
 ---
