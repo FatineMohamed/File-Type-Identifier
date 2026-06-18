@@ -4,19 +4,38 @@ A Python-based file analysis utility that identifies a file's true type using ma
 
 ## Features
 
-- Magic number file type detection
-- JSON signature database
-- SHA256 hashing
-- Human-readable file sizes
-- MIME type identification
-- Extension mismatch detection
-- ZIP container analysis
-- Detects:
-  - DOCX
-  - XLSX
-  - PPTX
-  - APK
-  - JAR
+* Magic number file type detection
+* JSON signature database
+* SHA256 hashing
+* Human-readable file sizes
+* MIME type identification
+* Extension mismatch detection
+* ZIP container analysis
+* Detects:
+
+  * DOCX
+  * XLSX
+  * PPTX
+  * APK
+  * JAR
+
+---
+
+## Screenshots
+
+### Extension Mismatch Detection
+
+<p align="center">
+  <img src="images/extension.png" width="900">
+</p>
+
+### File Analysis Example
+
+<p align="center">
+  <img src="images/lock.jpeg" width="900">
+</p>
+
+---
 
 ## Example
 
@@ -36,14 +55,14 @@ Extension mismatch detected!
 
 ## Technologies
 
-- Python
-- JSON
-- hashlib
-- os
-- zipfile
+* Python
+* JSON
+* hashlib
+* os
+* zipfile
 
 ## Future Improvements
 
-- Directory scanning
-- JSON reports
-- CSV reports
+* Directory scanning
+* JSON reports
+* CSV reports
